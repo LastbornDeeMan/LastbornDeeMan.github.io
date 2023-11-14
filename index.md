@@ -7,3 +7,7 @@ I am writing this for an assignment in this class
 It is November 14th, 2023
 
 My favorite Space Marine Legion is the World Eaters.
+
+<h1> Hello </h1>
+<p> SWAWS </p>
+<img src = "Khorne.jpg"></img>
