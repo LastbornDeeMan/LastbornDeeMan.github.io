@@ -10,4 +10,4 @@ My favorite Space Marine Legion is the World Eaters.
 
 <h1> Hello </h1>
 <p> Here's an image! </p>
-<img src = "Khorne.jpg"></img>
+<img src = "Khorne.jpg">
